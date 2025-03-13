@@ -1,0 +1,31 @@
+# Core scientific libraries
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+joblib==1.2.0
+
+# Data visualization (if used)
+matplotlib==3.6.3
+seaborn==0.12.2
+
+# Advanced / popular ML libraries (comment out if not used)
+xgboost==1.7.4
+lightgbm==3.3.5
+catboost==1.1.1
+
+# If you used Kaggle API for data downloads
+kaggle==1.5.12
+
+# For interactive notebooks
+jupyter==1.0.0
+notebook==6.5.4
+
+# For deployment via Flask (comment out if using FastAPI)
+Flask==2.2.3
+
+# Or for FastAPI (comment out Flask if using this)
+# fastapi==0.95.0
+# uvicorn==0.21.1
+
+# (Optional) For container/production
+gunicorn==20.1.0
