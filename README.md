@@ -1,6 +1,8 @@
 How to Run This Project
 This repository demonstrates a house price prediction model deployed as a simple REST API. Below are the quick steps to set up, run, and test the project on your local machine.
 
+First of all, clone this project in your prefered IDE.
+
 1. Install Dependencies
 Make sure you have Python 3.7+ installed.
 Create a virtual environment (recommended).
